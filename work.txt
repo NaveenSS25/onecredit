@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is for work text for checking 
+=======
+this is for work text for checking 
+>>>>>>> conflict
